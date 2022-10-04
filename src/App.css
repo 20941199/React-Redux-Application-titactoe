@@ -1,0 +1,15 @@
+.idle
+{
+  background-color:#e7e7e7
+}
+.turn1
+{
+  background-color:#008CBA
+}
+.turn2
+{
+  background-color:#8C00BA
+}
+.col {
+  width: 30px
+}
